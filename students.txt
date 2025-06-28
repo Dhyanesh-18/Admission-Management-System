@@ -1,0 +1,25 @@
+                     APPLICATION LIST
+
+Name                   : Dhyanesh 
+Roll.No                : 244
+Course                 : INFORMATION TECHNOLOGY (IT)
+
+Name                   : Kumar
+Roll.No                : 158
+Course                 : CSE
+
+Name                   : Sam
+Roll.No                : 102
+Course                 : MECHANICAL ENGINEERING (MECH)
+
+Name                   : Giri
+Roll.No                : 233
+Course                 : BIOMEDICAL ENGINEERING (BM)
+
+Name                   : virat
+Roll.No                : 321
+Course                 : COMPUTER SCIENCE AND ENGINEERING (CSE)
+
+Name                   : Dhyanesh
+Roll.No                : 142
+Course                 : COMPUTER SCIENCE AND ENGINEERING (CSE)
